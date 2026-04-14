@@ -1,6 +1,8 @@
 # DSA210-Project-
-This repository is for DSA210 Project. 
+This repository is for DSA210 Project.
 
+
+NOTE: In the .ipynb file you can also reach the detailed explanation of the study.
 
 EDA and Hypothesis Testing Summary
 In this repo in the python notebook, I analyzed whether my Spotify listening behavior changes across different personal and academic contexts, especially exam days, deadlines, stress periods, vacations, school breaks, and major entrance exam preparation periods.
