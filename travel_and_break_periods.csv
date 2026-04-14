@@ -1,0 +1,46 @@
+﻿start_date,end_date,period_type,period_name,location,is_travel_vacation,is_school_break,is_public_holiday_block,is_long_break,source,notes
+2018-06-14,2018-06-17,public_holiday_block,ramadan_feast_2018,Turkey,0,0,1,1,official_holiday_calendar,Ramazan Bayrami incl. eve
+2018-08-20,2018-08-24,public_holiday_block,eid_al_adha_2018,Turkey,0,0,1,1,official_holiday_calendar,Kurban Bayrami incl. eve
+2018-08-27,2018-09-09,travel_vacation,kktc_trip_2018,KKTC,1,0,0,1,user_provided,
+2019-01-21,2019-02-01,school_break,semester_break_2019,Turkey,0,1,0,1,official_calendar,Yariyil tatili
+2019-06-03,2019-06-06,public_holiday_block,ramadan_feast_2019,Turkey,0,0,1,1,official_holiday_calendar,Ramazan Bayrami incl. eve
+2019-07-30,2019-08-08,travel_vacation,marmaris_trip_2019,"Muğla, Marmaris",1,0,0,1,user_provided,
+2019-08-10,2019-08-14,public_holiday_block,eid_al_adha_2019,Turkey,0,0,1,1,official_holiday_calendar,Kurban Bayrami incl. eve
+2019-11-18,2019-11-22,school_break,fall_break_2019,Turkey,0,1,0,1,official_calendar,Ara tatil
+2020-01-20,2020-01-31,school_break,semester_break_2020,Turkey,0,1,0,1,official_calendar,Yariyil tatili
+2020-05-23,2020-05-26,public_holiday_block,ramadan_feast_2020,Turkey,0,0,1,1,official_holiday_calendar,Ramazan Bayrami incl. eve
+2020-07-30,2020-08-03,public_holiday_block,eid_al_adha_2020,Turkey,0,0,1,1,official_holiday_calendar,Kurban Bayrami incl. eve
+2020-08-09,2020-08-16,travel_vacation,marmaris_trip_2020,"Muğla, Marmaris",1,0,0,1,user_provided,
+2020-11-16,2020-11-20,school_break,fall_break_2020,Turkey,0,1,0,1,official_calendar,Ara tatil
+2021-01-25,2021-02-05,school_break,semester_break_2021,Turkey,0,1,0,1,official_calendar,Yariyil tatili
+2021-04-12,2021-04-16,school_break,spring_break_2021,Turkey,0,1,0,1,official_calendar,Ara tatil
+2021-05-12,2021-05-15,public_holiday_block,ramadan_feast_2021,Turkey,0,0,1,1,official_holiday_calendar,Ramazan Bayrami incl. eve
+2021-06-29,2021-07-07,travel_vacation,marmaris_trip_2021,"Muğla, Marmaris",1,0,0,1,user_provided,
+2021-07-19,2021-07-23,public_holiday_block,eid_al_adha_2021,Turkey,0,0,1,1,official_holiday_calendar,Kurban Bayrami incl. eve
+2021-11-15,2021-11-19,school_break,fall_break_2021,Turkey,0,1,0,1,official_calendar,Ara tatil
+2022-01-24,2022-02-04,school_break,semester_break_2022,Turkey,0,1,0,1,official_calendar,Yariyil tatili
+2022-04-11,2022-04-15,school_break,spring_break_2022,Turkey,0,1,0,1,official_calendar,Ara tatil
+2022-05-01,2022-05-04,public_holiday_block,ramadan_feast_2022,Turkey,0,0,1,1,official_holiday_calendar,Ramazan Bayrami incl. eve
+2022-07-08,2022-07-12,public_holiday_block,eid_al_adha_2022,Turkey,0,0,1,1,official_holiday_calendar,Kurban Bayrami incl. eve
+2022-07-12,2022-07-22,travel_vacation,fethiye_kos_trip_2022,"Muğla, Fethiye + Kos Island, Greece",1,0,0,1,user_provided,
+2022-11-14,2022-11-18,school_break,fall_break_2022,Turkey,0,1,0,1,official_calendar,Ara tatil
+2023-01-23,2023-02-03,school_break,semester_break_2023,Turkey,0,1,0,1,official_calendar,Yariyil tatili
+2023-04-17,2023-04-20,school_break,spring_break_2023,Turkey,0,1,0,0,official_calendar,Ara tatil; bayram overlap nedeniyle kisaldi
+2023-04-20,2023-04-23,public_holiday_block,ramadan_feast_2023,Turkey,0,0,1,1,official_holiday_calendar,Ramazan Bayrami incl. eve
+2023-06-24,2023-07-02,travel_vacation,antalya_trip_2023,Antalya,1,0,0,1,user_provided,
+2023-06-27,2023-07-01,public_holiday_block,eid_al_adha_2023,Turkey,0,0,1,1,official_holiday_calendar,Kurban Bayrami incl. eve
+2023-07-17,2023-08-02,travel_vacation,europe_trip_2023,Europe trip,1,0,0,1,user_provided,
+2023-11-13,2023-11-17,school_break,fall_break_2023,Turkey,0,1,0,1,official_calendar,Ara tatil
+2024-01-22,2024-02-02,school_break,semester_break_2024,Turkey,0,1,0,1,official_calendar,Yariyil tatili
+2024-04-08,2024-04-12,school_break,spring_break_2024,Turkey,0,1,0,1,official_calendar,Ara tatil
+2024-04-09,2024-04-12,public_holiday_block,ramadan_feast_2024,Turkey,0,0,1,1,official_holiday_calendar,Ramazan Bayrami incl. eve half-day
+2024-06-15,2024-06-19,public_holiday_block,eid_al_adha_2024,Turkey,0,0,1,1,official_holiday_calendar,Kurban Bayrami incl. eve
+2024-06-15,2024-06-22,travel_vacation,benelux_trip_2024,Benelux,1,0,0,1,user_provided,
+2024-11-11,2024-11-15,school_break,fall_break_2024,Turkey,0,1,0,1,official_calendar,Ara tatil
+2025-01-20,2025-01-31,school_break,semester_break_2025,Turkey,0,1,0,1,official_calendar,Yariyil tatili
+2025-03-29,2025-04-01,public_holiday_block,ramadan_feast_2025,Turkey,0,0,1,1,official_holiday_calendar,Ramazan Bayrami incl. eve
+2025-03-31,2025-04-04,school_break,spring_break_2025,Turkey,0,1,0,1,official_calendar,Ara tatil
+2025-05-01,2025-05-04,travel_vacation,barcelona_trip_2025,Barcelona,1,0,0,1,user_provided,
+2025-06-05,2025-06-09,public_holiday_block,eid_al_adha_2025,Turkey,0,0,1,1,official_holiday_calendar,Kurban Bayrami incl. eve
+2025-06-06,2025-06-10,travel_vacation,gap_trip_2025,GAP tour,1,0,0,1,user_provided,
+2025-07-05,2025-07-14,travel_vacation,greece_trip_2025,Greece,1,0,0,1,user_provided

@@ -1,0 +1,252 @@
+﻿date,is_exam,is_deadline,is_academic_event,is_personal,is_stress_period,source_events,categories
+2024-07-15,0,0,0,0,1,Ehliyet E-sınav,stress_before_exam
+2024-07-16,0,0,0,0,1,Ehliyet E-sınav,stress_before_exam
+2024-07-17,0,0,0,0,1,Ehliyet E-sınav,stress_before_exam
+2024-07-18,0,0,0,0,1,Ehliyet E-sınav,stress_before_exam
+2024-07-19,0,0,0,0,1,Ehliyet E-sınav,stress_before_exam
+2024-07-20,0,0,0,0,1,Ehliyet E-sınav,stress_before_exam
+2024-07-21,0,0,0,0,1,Ehliyet E-sınav,stress_before_exam
+2024-07-22,1,0,0,0,0,Ehliyet E-sınav,exam
+2024-08-12,0,0,1,0,0,Direksiyon dersi,academic_event
+2024-08-19,0,0,1,0,0,Direksiyon dersi,academic_event
+2024-08-20,0,0,1,0,0,Direksiyon dersi,academic_event
+2024-10-02,0,0,1,0,1,Gitar dersi; TLL ödevi,academic_event; stress_before_deadline
+2024-10-03,0,0,0,0,1,NS VE DIGER SUCOURSE ODEVLERİ; TLL ödevi,stress_before_deadline
+2024-10-04,0,0,0,0,1,NS VE DIGER SUCOURSE ODEVLERİ; TLL ödevi,stress_before_deadline
+2024-10-05,0,1,0,0,1,NS VE DIGER SUCOURSE ODEVLERİ; TLL ödevi,deadline; stress_before_deadline
+2024-10-06,0,1,0,0,0,NS VE DIGER SUCOURSE ODEVLERİ,deadline
+2024-10-07,0,0,0,0,1,Adp sps mülakatı; CIP Proje Seçimi,stress_before_deadline
+2024-10-08,0,0,0,0,1,Adp sps mülakatı; CIP Proje Seçimi,stress_before_deadline
+2024-10-09,0,0,0,0,1,Adp sps mülakatı; CIP Proje Seçimi,stress_before_deadline
+2024-10-10,0,1,0,0,1,Adp sps mülakatı; CIP Proje Seçimi; ÖDEVLER,deadline; stress_before_deadline
+2024-10-11,0,0,0,0,1,ÖDEVLER,stress_before_deadline
+2024-10-12,0,0,0,0,1,ÖDEVLER,stress_before_deadline
+2024-10-13,0,1,0,0,0,ÖDEVLER,deadline
+2024-10-21,0,0,1,0,0,Adp toplantı,academic_event
+2024-10-22,0,0,1,0,0,Sps 102,academic_event
+2024-11-06,0,0,1,0,0,Sps 101,academic_event
+2024-11-07,0,0,1,0,0,Sps101,academic_event
+2024-11-21,0,0,1,0,0,Sps 101,academic_event
+2024-11-27,0,0,1,0,0,Kassandrayla zoom toplantı,academic_event
+2024-12-03,0,0,1,0,0,Sps 101,academic_event
+2024-12-04,0,0,1,0,0,Sps 101,academic_event
+2024-12-18,0,0,1,0,0,Sps 101,academic_event
+2024-12-19,0,0,0,0,1,Sps 101 bonus ödev; Staj başvuru,stress_before_deadline
+2024-12-20,0,0,0,0,1,Sps 101 bonus ödev; Staj başvuru,stress_before_deadline
+2024-12-21,0,0,0,0,1,Sps 101 bonus ödev; Staj başvuru,stress_before_deadline
+2024-12-22,0,1,0,0,0,Sps 101 bonus ödev; Staj başvuru,deadline
+2024-12-26,0,0,0,0,1,TLL ödevi,stress_before_deadline
+2024-12-27,0,0,0,0,1,TLL ödevi,stress_before_deadline
+2024-12-28,0,0,0,0,1,TLL ödevi,stress_before_deadline
+2024-12-29,0,1,0,0,0,TLL ödevi,deadline
+2025-01-06,0,0,0,0,1,IF itiraz,stress_before_deadline
+2025-01-07,0,0,0,0,1,IF itiraz,stress_before_deadline
+2025-01-08,0,0,0,0,1,IF itiraz,stress_before_deadline
+2025-01-09,0,1,0,0,1,IF itiraz; Mat itiraz,deadline; stress_before_deadline
+2025-01-10,0,0,0,0,1,Mat itiraz,stress_before_deadline
+2025-01-11,0,0,0,0,1,Mat itiraz,stress_before_deadline
+2025-01-12,0,1,0,0,0,Mat itiraz,deadline
+2025-02-17,0,0,1,0,0,Adp toplantı,academic_event
+2025-02-19,0,0,1,0,0,Sps 101,academic_event
+2025-02-20,0,0,1,0,0,Sps102,academic_event
+2025-02-26,0,0,1,0,0,Sps 101,academic_event
+2025-02-27,0,0,1,0,0,Sps102,academic_event
+2025-03-05,0,0,1,0,0,Sps 102,academic_event
+2025-03-07,0,0,1,0,0,Zoom meeting,academic_event
+2025-03-10,0,0,1,0,0,Sps102,academic_event
+2025-03-13,0,0,1,0,0,IC workshop; Sps102,academic_event
+2025-03-19,0,0,1,0,0,Sps102,academic_event
+2025-03-24,0,0,1,0,0,Sps102,academic_event
+2025-03-25,0,0,1,1,0,Beril bohr atom modeli; Sps102,academic_event; personal
+2025-04-07,0,0,1,0,0,Sps 102,academic_event
+2025-04-09,0,0,1,0,0,Sps 102,academic_event
+2025-04-15,0,0,1,0,0,Sps102,academic_event
+2025-04-16,0,0,1,0,0,Sps 102,academic_event
+2025-04-19,0,0,0,0,1,Sps objection,stress_before_deadline
+2025-04-20,0,0,0,0,1,Sps objection,stress_before_deadline
+2025-04-21,0,0,0,0,1,Sps objection,stress_before_deadline
+2025-04-22,0,1,0,0,1,Sps Yazma sınav evrak yükleme; Sps objection,deadline; stress_before_exam
+2025-04-23,0,0,0,0,1,Sps Yazma sınav evrak yükleme,stress_before_exam
+2025-04-24,0,0,0,0,1,Sps Yazma sınav evrak yükleme,stress_before_exam
+2025-04-25,0,0,0,0,1,Sps Yazma sınav evrak yükleme,stress_before_exam
+2025-04-26,0,0,0,0,1,Sps Yazma sınav evrak yükleme,stress_before_exam
+2025-04-27,0,0,0,0,1,Sps Yazma sınav evrak yükleme,stress_before_exam
+2025-04-28,0,0,0,0,1,Sps Yazma sınav evrak yükleme,stress_before_exam
+2025-04-29,1,0,1,0,0,Sps Yazma sınav evrak yükleme; Sps102,academic_event; exam
+2025-05-10,0,0,0,1,0,Anneler günü hediye,personal
+2025-05-12,0,0,1,0,0,Sps 102,academic_event
+2025-05-13,0,0,1,0,0,Sps 102,academic_event
+2025-05-17,0,0,0,0,1,Math final,stress_before_exam
+2025-05-18,0,0,0,0,1,Math final,stress_before_exam
+2025-05-19,0,0,0,0,1,Math final; Sps final,stress_before_exam
+2025-05-20,0,0,0,0,1,Hist final; Math final; Sps final; Tll final,stress_before_exam
+2025-05-21,0,0,0,0,1,Hist final; Math final; Sps final; Tll final,stress_before_exam
+2025-05-22,0,0,0,0,1,Hist final; Math final; Sps final; Tll final,stress_before_exam
+2025-05-23,0,0,0,0,1,Hist final; Math final; Sps final; Tll final,stress_before_exam
+2025-05-24,1,0,0,0,1,Hist final; Math final; Sps final; Tll final,exam; stress_before_exam
+2025-05-25,0,0,0,0,1,Hist final; Sps final; Tll final,stress_before_exam
+2025-05-26,1,0,0,0,1,Hist final; Sps final; Tll final,exam; stress_before_exam
+2025-05-27,1,0,0,0,0,Hist final; Tll final,exam
+2025-06-10,0,0,1,0,0,Regrade math,academic_event
+2025-06-12,0,0,0,1,0,Berile doğum günü mesajı ve story hazırla,personal
+2025-06-20,0,0,0,1,0,Demirci doğum günü,personal
+2025-07-18,0,0,0,1,0,Beril nazlıyı darlayacak salihi arayacak,personal
+2025-08-04,0,0,0,0,1,Linkedin ses başvuru,stress_before_deadline
+2025-08-05,0,0,0,0,1,Linkedin ses başvuru,stress_before_deadline
+2025-08-06,0,0,0,0,1,Linkedin ses başvuru,stress_before_deadline
+2025-08-07,0,1,0,0,0,Linkedin ses başvuru,deadline
+2025-08-10,0,0,0,0,1,Linkedin ses başvuru,stress_before_deadline
+2025-08-11,0,0,0,0,1,Linkedin ses başvuru,stress_before_deadline
+2025-08-12,0,0,0,0,1,Linkedin ses başvuru,stress_before_deadline
+2025-08-13,0,1,0,0,0,Linkedin ses başvuru,deadline
+2025-08-15,0,0,0,0,1,Linkedin ses başvuru,stress_before_deadline
+2025-08-16,0,0,0,1,1,Linkedin ses başvuru; Çağanla bulusma,personal; stress_before_deadline
+2025-08-17,0,0,0,0,1,Linkedin ses başvuru,stress_before_deadline
+2025-08-18,0,1,0,0,0,Linkedin ses başvuru,deadline
+2025-09-01,0,0,0,1,0,Berile çiçek,personal
+2025-09-11,0,0,0,0,1,Ns La son gün,stress_before_deadline
+2025-09-12,0,0,0,1,1,Beril burs parası hatırlat; Ns La son gün,personal; stress_before_deadline
+2025-09-13,0,0,0,0,1,Ns La son gün,stress_before_deadline
+2025-09-14,0,1,0,0,0,Ns La son gün,deadline
+2025-09-20,0,0,0,0,1,NS LA MÜLAKAT,stress_before_deadline
+2025-09-21,0,0,0,0,1,NS LA MÜLAKAT,stress_before_deadline
+2025-09-22,0,0,0,0,1,NS LA MÜLAKAT,stress_before_deadline
+2025-09-23,0,1,0,0,0,NS LA MÜLAKAT,deadline
+2025-11-08,0,0,1,0,0,Math203,academic_event
+2025-11-09,0,0,1,0,0,ENS208,academic_event
+2025-11-24,0,0,0,0,1,Ens 208 review,stress_before_deadline
+2025-11-25,0,0,0,0,1,Ens 208 review,stress_before_deadline
+2025-11-26,0,0,0,0,1,Ens 208 review,stress_before_deadline
+2025-11-27,0,1,0,0,0,Ens 208 review,deadline
+2025-11-28,0,0,0,0,1,Codeway başvuru,stress_before_deadline
+2025-11-29,0,0,0,0,1,Akbank CEF sınavı; Codeway başvuru; Ie 303 review,stress_before_deadline; stress_before_exam
+2025-11-30,0,0,0,0,1,Akbank CEF sınavı; Codeway başvuru; Ie 303 review,stress_before_deadline; stress_before_exam
+2025-12-01,0,1,0,0,1,Akbank CEF sınavı; Codeway başvuru; Dsa objection; Ie 303 review,deadline; stress_before_deadline; stress_before_exam
+2025-12-02,0,1,0,0,1,Akbank CEF sınavı; Dsa objection; Ie 303 review,deadline; stress_before_deadline; stress_before_exam
+2025-12-03,0,0,0,0,1,Akbank CEF sınavı; Dsa objection,stress_before_deadline; stress_before_exam
+2025-12-04,0,1,0,0,1,Akbank CEF sınavı; Dsa objection,deadline; stress_before_exam
+2025-12-05,0,0,0,0,1,Akbank CEF sınavı,stress_before_exam
+2025-12-06,1,0,0,0,1,Akbank CEF sınavı; ENS208 MIDTERM II,exam; stress_before_exam
+2025-12-07,0,0,0,0,1,ENS208 MIDTERM II; MATH201 MIDTERM II,stress_before_exam
+2025-12-08,0,0,0,0,1,ENS208 MIDTERM II; HUM 201 REVIEW; MATH201 MIDTERM II,stress_before_deadline; stress_before_exam
+2025-12-09,0,0,0,0,1,ENS208 MIDTERM II; HUM 201 REVIEW; MATH201 MIDTERM II; Çap son gün,stress_before_deadline; stress_before_exam
+2025-12-10,0,0,0,0,1,ENS208 MIDTERM II; HUM 201 REVIEW; IE303 MIDTERM II; MATH201 MIDTERM II; Çap son gün,stress_before_deadline; stress_before_exam
+2025-12-11,0,1,0,0,1,ENS208 MIDTERM II; HUM 201 REVIEW; IE303 MIDTERM II; MATH201 MIDTERM II; Çap son gün,deadline; stress_before_deadline; stress_before_exam
+2025-12-12,0,1,0,0,1,Dsa the2 son gün; ENS208 MIDTERM II; IE303 MIDTERM II; MATH201 MIDTERM II; Çap son gün,deadline; stress_before_deadline; stress_before_exam
+2025-12-13,1,0,0,0,1,Dsa the2 son gün; ENS208 MIDTERM II; IE303 MIDTERM II; MATH201 MIDTERM II; MATH203 MIDTERM II,exam; stress_before_deadline; stress_before_exam
+2025-12-14,1,0,0,0,1,Dsa the2 son gün; IE303 MIDTERM II; MATH201 MIDTERM II; MATH203 MIDTERM II,exam; stress_before_deadline; stress_before_exam
+2025-12-15,0,1,0,0,1,Dsa the2 son gün; IE303 MIDTERM II; MATH203 MIDTERM II,deadline; stress_before_exam
+2025-12-16,0,0,0,0,1,IE303 MIDTERM II; MATH203 MIDTERM II,stress_before_exam
+2025-12-17,1,0,0,0,1,IE303 MIDTERM II; MATH203 MIDTERM II,exam; stress_before_exam
+2025-12-18,0,0,0,0,1,MATH203 MIDTERM II,stress_before_exam
+2025-12-19,0,0,0,0,1,MATH203 MIDTERM II,stress_before_exam
+2025-12-20,1,0,0,0,0,MATH203 MIDTERM II,exam
+2025-12-26,0,0,0,0,1,Ens 208 review; Math201 objection,stress_before_deadline
+2025-12-27,0,0,0,0,1,Ens 208 review; Math201 objection,stress_before_deadline
+2025-12-28,0,0,0,0,1,Ens 208 review; Math201 objection,stress_before_deadline
+2025-12-29,0,1,0,0,1,ENS208 FINAL; Ens 208 review; IE303 QUIZ TELAFİ; Math201 objection,deadline; stress_before_exam
+2025-12-30,0,0,0,0,1,ENS208 FINAL; IE303 QUIZ TELAFİ,stress_before_exam
+2025-12-31,0,0,0,0,1,ENS208 FINAL; IE303 QUIZ TELAFİ; MATH201 FINAL,stress_before_exam
+2026-01-01,0,0,0,0,1,ENS208 FINAL; IE303 QUIZ TELAFİ; MATH201 FINAL; MATH203 FINAL,stress_before_exam
+2026-01-02,0,0,0,0,1,ENS208 FINAL; IE303 QUIZ TELAFİ; MATH201 FINAL; MATH203 FINAL,stress_before_exam
+2026-01-03,0,0,0,0,1,DSA201 FINAL; ENS208 FINAL; IE303 QUIZ TELAFİ; MATH201 FINAL; MATH203 FINAL,stress_before_exam
+2026-01-04,0,0,0,0,1,DSA201 FINAL; ENS208 FINAL; HUM201 FINAL; IE303 QUIZ TELAFİ; MATH201 FINAL; MATH203 FINAL,stress_before_exam
+2026-01-05,1,0,0,0,1,DSA201 FINAL; ENS208 FINAL; HUM201 FINAL; IE303 QUIZ TELAFİ; MATH201 FINAL; MATH203 FINAL,exam; stress_before_exam
+2026-01-06,0,0,0,0,1,DSA201 FINAL; Dsa the3 son gün; HUM201 FINAL; IE303 FINAL; MATH201 FINAL; MATH203 FINAL,stress_before_deadline; stress_before_exam
+2026-01-07,1,0,0,0,1,DSA201 FINAL; Dsa the3 son gün; HUM201 FINAL; IE303 FINAL; MATH201 FINAL; MATH203 FINAL,exam; stress_before_deadline; stress_before_exam
+2026-01-08,1,0,0,0,1,DSA201 FINAL; Dsa the3 son gün; HUM201 FINAL; IE303 FINAL; MATH203 FINAL,exam; stress_before_deadline; stress_before_exam
+2026-01-09,0,1,0,0,1,DSA201 FINAL; Dsa the3 son gün; HUM201 FINAL; IE303 FINAL,deadline; stress_before_exam
+2026-01-10,1,0,0,0,1,DSA201 FINAL; HUM201 FINAL; IE303 FINAL,exam; stress_before_exam
+2026-01-11,1,0,0,0,1,Dsa objection; Ens objection; HUM201 FINAL; IE303 FINAL,exam; stress_before_deadline; stress_before_exam
+2026-01-12,0,0,0,0,1,Dsa objection; Dsa the 3 son gün; Ens objection; IE303 FINAL,stress_before_deadline; stress_before_exam
+2026-01-13,1,0,0,0,1,Dsa objection; Dsa the 3 son gün; Ens objection; IE303 FINAL,exam; stress_before_deadline
+2026-01-14,0,1,0,0,1,Dsa objection; Dsa the 3 son gün; Ens objection; Kavek mülakat; Thy staj başvuru son gün !!!,deadline; stress_before_deadline
+2026-01-15,0,1,0,0,1,Dsa the 3 son gün; Kavek mülakat; Thy staj başvuru son gün !!!,deadline; stress_before_deadline
+2026-01-16,0,0,0,0,1,Dominos data mail; Kavek mülakat; Thy staj başvuru son gün !!!,stress_before_deadline
+2026-01-17,0,1,0,0,1,Dominos data mail; Kavek mülakat; Thy staj başvuru son gün !!!,deadline; stress_before_deadline
+2026-01-18,0,1,0,0,1,Dominos data mail; Thy staj başvuru son gün !!!,deadline; stress_before_deadline
+2026-01-19,0,1,0,0,0,Dominos data mail,deadline
+2026-01-27,0,0,0,1,0,Berille beraber yapabilecek bir aktivite,personal
+2026-02-07,0,0,0,0,1,Garanti bbva yarışma son gün,stress_before_deadline
+2026-02-08,0,0,0,0,1,Erasmus başvuru son gün; Garanti bbva yarışma son gün,stress_before_deadline
+2026-02-09,0,0,0,0,1,Erasmus başvuru son gün; Garanti bbva yarışma son gün,stress_before_deadline
+2026-02-10,0,1,0,0,1,Erasmus başvuru son gün; Garanti bbva yarışma son gün,deadline; stress_before_deadline
+2026-02-11,0,1,0,0,0,Erasmus başvuru son gün,deadline
+2026-02-15,0,0,0,0,1,Take off 101 mülakat,stress_before_deadline
+2026-02-16,0,0,0,0,1,Take off 101 mülakat,stress_before_deadline
+2026-02-17,0,0,0,0,1,Take off 101 mülakat,stress_before_deadline
+2026-02-18,0,1,0,0,1,THY sınav; Take off 101 mülakat,deadline; stress_before_exam
+2026-02-19,0,0,0,0,1,THY sınav,stress_before_exam
+2026-02-20,0,0,0,0,1,Econ204 hocasına mail; THY sınav,stress_before_deadline; stress_before_exam
+2026-02-21,0,0,0,0,1,Econ204 hocasına mail; THY sınav,stress_before_deadline; stress_before_exam
+2026-02-22,0,0,0,0,1,Econ204 hocasına mail; THY sınav,stress_before_deadline; stress_before_exam
+2026-02-23,0,1,0,0,1,Econ204 hocasına mail; THY sınav,deadline; stress_before_exam
+2026-02-24,0,0,0,0,1,THY sınav,stress_before_exam
+2026-02-25,1,0,1,0,1,THY sınav; Thy formu; Unicourse,academic_event; exam; stress_before_deadline
+2026-02-26,0,0,1,0,1,Thy formu; Unicourse,academic_event; stress_before_deadline
+2026-02-27,0,0,0,1,1,Beril haftasonu dönecek mi sor; Thy formu,personal; stress_before_deadline
+2026-02-28,0,1,0,0,1,Thy formu,deadline; stress_before_deadline
+2026-03-01,0,1,0,0,1,Thy formu,deadline; stress_before_deadline
+2026-03-02,0,1,0,0,0,Thy formu,deadline
+2026-03-05,0,0,0,0,1,Ent201 ödev,stress_before_deadline
+2026-03-06,0,0,0,0,1,Ent201 ödev,stress_before_deadline
+2026-03-07,0,0,0,0,1,Ent201 ödev; Linkedin mail kavek,stress_before_deadline
+2026-03-08,0,1,0,0,1,Ent201 ödev; Linkedin mail kavek,deadline; stress_before_deadline
+2026-03-09,0,0,0,0,1,LA Form; Linkedin mail kavek,stress_before_deadline
+2026-03-10,0,1,0,0,1,LA Form; Linkedin mail kavek,deadline; stress_before_deadline
+2026-03-11,0,0,0,0,1,LA Form,stress_before_deadline
+2026-03-12,0,1,0,0,1,LA Form; Ulusal staj programı son gün,deadline; stress_before_deadline
+2026-03-13,0,1,0,0,1,Cs201 ödev; LA Form; Ulusal staj programı son gün,deadline; stress_before_deadline
+2026-03-14,0,0,0,0,1,Cs201 ödev; Ulusal staj programı son gün,stress_before_deadline
+2026-03-15,0,1,0,0,1,Cs201 ödev; THY Mülakat; Ulusal staj programı son gün,deadline; stress_before_deadline
+2026-03-16,0,1,0,0,1,Cs201 ödev; THY Mülakat,deadline; stress_before_deadline
+2026-03-17,0,0,1,0,1,Github dsa; THY Mülakat,academic_event; stress_before_deadline
+2026-03-18,0,1,0,0,0,THY Mülakat,deadline
+2026-03-22,0,0,0,1,1,Beril foto; CS201 MIDTERM I; IE311 MIDTERM I,personal; stress_before_exam
+2026-03-23,0,0,0,1,1,Beril foto; CS201 MIDTERM I; IE311 MIDTERM I,personal; stress_before_exam
+2026-03-24,0,0,1,0,1,CS201 MIDTERM I; IE311 MIDTERM I; Proj201 toplantısı,academic_event; stress_before_exam
+2026-03-25,0,0,0,0,1,CS201 MIDTERM I; IE311 MIDTERM I,stress_before_exam
+2026-03-26,0,0,0,0,1,CS201 MIDTERM I; IE311 MIDTERM I,stress_before_exam
+2026-03-27,0,0,0,0,1,CS201 MIDTERM I; Cs hoca mail; DSA Project Proposal; IE311 MIDTERM I; İe hocası şikayet mail,stress_before_deadline; stress_before_exam
+2026-03-28,0,0,0,0,1,CS201 MIDTERM I; Cs hoca mail; DSA Project Proposal; IE311 MIDTERM I; İe hocası şikayet mail,stress_before_deadline; stress_before_exam
+2026-03-29,1,0,0,0,1,CS201 MIDTERM I; Cs hoca mail; DSA Project Proposal; IE311 MIDTERM I; MATH204 MIDTERM I; İe hocası şikayet mail,exam; stress_before_deadline; stress_before_exam
+2026-03-30,0,1,0,0,1,Akbank sınav son; Cs hoca mail; DSA Project Proposal; MATH204 MIDTERM I; İe hocası şikayet mail,deadline; stress_before_exam
+2026-03-31,0,0,0,0,1,Akbank sınav son; Cs hoca mail; MATH204 MIDTERM I,stress_before_deadline; stress_before_exam
+2026-04-01,0,0,0,0,1,Akbank sınav son; Cs hoca mail; MATH204 MIDTERM I,stress_before_deadline; stress_before_exam
+2026-04-02,0,0,0,1,1,Akbank sınav son; Beril sponsorluk; Cs hoca mail; MATH204 MIDTERM I,personal; stress_before_deadline; stress_before_exam
+2026-04-03,0,1,0,1,1,Akbank sınav son; Beril sponsorluk; CS201 HOMEWORK 2; Cs hoca mail; MATH204 MIDTERM I,deadline; personal; stress_before_deadline; stress_before_exam
+2026-04-04,0,0,0,0,1,Akbank sınav son; CS201 HOMEWORK 2; MATH204 MIDTERM I,stress_before_deadline; stress_before_exam
+2026-04-05,1,0,0,0,1,Akbank sınav son; CS201 HOMEWORK 2; MATH204 MIDTERM I,exam; stress_before_deadline; stress_before_exam
+2026-04-06,1,1,0,0,0,Akbank sınav son; CS201 HOMEWORK 2,deadline; exam
+2026-04-10,0,0,0,0,1,DSA PROJECT DATA COLLECTION & EDA HYPOTESİS TEST,stress_before_deadline
+2026-04-11,0,0,0,1,1,Beril çiçek sarı lale; DSA PROJECT DATA COLLECTION & EDA HYPOTESİS TEST; MATH306 MIDTERM,personal; stress_before_deadline; stress_before_exam
+2026-04-12,0,0,0,0,1,DSA PROJECT DATA COLLECTION & EDA HYPOTESİS TEST; DSA210 MIDTERM; MATH306 MIDTERM,stress_before_deadline; stress_before_exam
+2026-04-13,0,1,0,0,1,DSA PROJECT DATA COLLECTION & EDA HYPOTESİS TEST; DSA210 MIDTERM; MATH306 MIDTERM,deadline; stress_before_exam
+2026-04-14,0,0,0,0,1,DSA210 MIDTERM; MATH306 MIDTERM,stress_before_exam
+2026-04-15,0,0,0,0,1,DSA210 MIDTERM; MATH306 MIDTERM,stress_before_exam
+2026-04-16,0,0,0,0,1,DSA210 MIDTERM; MATH306 MIDTERM,stress_before_exam
+2026-04-17,0,0,0,0,1,DSA210 MIDTERM; MATH306 MIDTERM,stress_before_exam
+2026-04-18,1,0,0,0,1,DSA210 MIDTERM; MATH306 MIDTERM,exam; stress_before_exam
+2026-04-19,1,0,0,0,0,DSA210 MIDTERM,exam
+2026-04-26,0,0,0,0,1,IE311 MIDTERM II,stress_before_exam
+2026-04-27,0,0,0,0,1,IE311 MIDTERM II,stress_before_exam
+2026-04-28,0,0,0,0,1,IE311 MIDTERM II,stress_before_exam
+2026-04-29,0,0,0,0,1,IE311 MIDTERM II,stress_before_exam
+2026-04-30,0,0,0,0,1,IE311 MIDTERM II,stress_before_exam
+2026-05-01,0,0,0,0,1,DSA PROJECT ML METHODS; IE311 MIDTERM II,stress_before_deadline; stress_before_exam
+2026-05-02,0,0,0,0,1,DSA PROJECT ML METHODS; IE311 MIDTERM II,stress_before_deadline; stress_before_exam
+2026-05-03,1,0,0,0,1,DSA PROJECT ML METHODS; IE311 MIDTERM II; MATH204 MIDTERM II,exam; stress_before_deadline; stress_before_exam
+2026-05-04,0,1,0,0,1,DSA PROJECT ML METHODS; MATH204 MIDTERM II,deadline; stress_before_exam
+2026-05-05,0,0,0,0,1,MATH204 MIDTERM II,stress_before_exam
+2026-05-06,0,0,0,0,1,MATH204 MIDTERM II,stress_before_exam
+2026-05-07,0,0,0,0,1,MATH204 MIDTERM II,stress_before_exam
+2026-05-08,0,0,0,0,1,MATH204 MIDTERM II,stress_before_exam
+2026-05-09,0,0,0,0,1,MATH204 MIDTERM II,stress_before_exam
+2026-05-10,1,0,0,0,1,DSA PROJECT FINAL REPORT; MATH204 MIDTERM II,exam; stress_before_exam
+2026-05-11,0,0,0,0,1,DSA PROJECT FINAL REPORT,stress_before_exam
+2026-05-12,0,0,0,0,1,DSA PROJECT FINAL REPORT,stress_before_exam
+2026-05-13,0,0,0,0,1,DSA PROJECT FINAL REPORT,stress_before_exam
+2026-05-14,0,0,0,0,1,DSA PROJECT FINAL REPORT,stress_before_exam
+2026-05-15,0,0,0,0,1,DSA PROJECT FINAL REPORT,stress_before_exam
+2026-05-16,0,0,0,0,1,DSA PROJECT FINAL REPORT,stress_before_exam
+2026-05-17,1,0,0,0,0,DSA PROJECT FINAL REPORT,exam
