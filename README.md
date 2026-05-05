@@ -204,4 +204,16 @@ The main goal was to understand whether music listening changes depending on con
 The analysis suggests that music listening is not constant. It appears to vary with academic pressure, stress periods, vacations, breaks, and major exam preparation periods. This supports the idea that music listening behavior is connected to emotional, academic, and routine-based factors.
 
 
-NOTE: For this stage just 3 datasets is used however there are more datasets avaiable such as technical logs, account data etc. These datasets can be used for further studies.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ML PART
+
+ML Methods part of the project focuses on modeling how Spotify listening behavior changes from day to day, both in terms of listening intensity and the character of the music being played. This notebook is designed to align closely with the main research question by building a daily-level machine learning dataset from cleaned Spotify streaming history, calendar-based special-day labels, travel and break periods, and partially enriched audio features such as energy, valence, tempo, and acousticness.
+
+The main machine learning task in the notebook is a regression problem that predicts daily listening time (`total_minutes`) using behavioral, temporal, contextual, and audio-based features. Multiple models are compared, including linear baselines and non-linear ensemble methods, followed by model evaluation, feature importance analysis, residual analysis, and learning-curve inspection. In addition, the notebook includes an optional classification task that groups days into low, medium, and high listening-intensity categories.
+
+Overall, the notebook shows that daily listening behavior is not random and can be modeled quite successfully. The strongest predictors are mostly related to listening structure and intensity, such as stream count, stream length, and recent listening trends, while audio features provide a smaller but still meaningful contribution as proxies for music character. This makes the notebook an important complement to the EDA and hypothesis testing stages by showing that daily listening variation can be studied not only descriptively, but also through predictive modeling.
+
+
