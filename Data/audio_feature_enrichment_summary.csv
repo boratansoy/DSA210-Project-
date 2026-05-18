@@ -1,0 +1,10 @@
+﻿metric,value
+source_dataset,Faizasb/spotify-tracks-dataset + RecSysTUM/Million_Song_Dataset
+unique_tracks_total,28660.0
+unique_tracks_with_audio_features,4316.0
+unique_track_match_rate,0.150593
+stream_weighted_track_match_rate,0.17092
+event_rows_total,185469.0
+event_rows_with_audio_features,31595.0
+event_match_rate,0.170352
+ms_weighted_event_match_rate,0.188911
